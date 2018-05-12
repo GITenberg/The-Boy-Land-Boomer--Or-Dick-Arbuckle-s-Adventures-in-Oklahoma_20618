@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20618#The-Boy-Land-Boomer--Or-Dick-Arbuckle-s-Adventures-in-Oklahoma
 gutenberg_issued: '2007-02-18'
 gutenberg_type: Text
 identifiers:
